@@ -1,4 +1,4 @@
-package com.udacity.catpoint.security.data;
+package com.udacity.catpoint.security.service.data;
 
 /**
  * List of available sensor types. Not currently used by system, other than for display.
